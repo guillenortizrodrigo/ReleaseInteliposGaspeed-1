@@ -1,0 +1,65 @@
+[
+  {
+    "aplicativo": "AceitesApp",
+    "url": "https://github.com/guillenortizrodrigo/ReleaseInteliposGaspeed/raw/main/aceitesApp_1_5.apk",
+    "versionCode": 5,
+    "modalidad": "Pruebas",
+    "updateMessage": "Ver 1.5. Actualización "
+  },
+  {
+    "aplicativo": "CancelPrefApp",
+    "url": "https://github.com/guillenortizrodrigo/ReleaseInteliposGaspeed/raw/main/cancelPref_1_5.apk",
+    "versionCode": 5,
+    "modalidad": "Pruebas",
+    "updateMessage": "Ver 1.5. Actualización "
+  },
+  {
+    "aplicativo": "consultarSaldoApp",
+    "url": "https://github.com/guillenortizrodrigo/ReleaseInteliposGaspeed/raw/main/consultarSaldoApp_1_4.apk",
+    "versionCode": 4,
+    "modalidad": "Pruebas",
+    "updateMessage": "Ver 1.4. Actualización "
+  },
+  {
+    "aplicativo": "FlotillaApp",
+    "url": "https://github.com/guillenortizrodrigo/ReleaseInteliposGaspeed/raw/main/flotillaApp_1_5.apk",
+    "versionCode": 5,
+    "modalidad": "Pruebas",
+    "updateMessage": "Ver 1.5. Actualización "
+  },
+  {
+    "aplicativo": "FacturacionApp",
+    "url": "https://github.com/guillenortizrodrigo/ReleaseInteliposGaspeed/raw/main/facturacionApp_1_6.apk",
+    "versionCode": 6,
+    "modalidad": "Pruebas",
+    "updateMessage": "Ver 1.6. Actualización "
+  },
+  {
+    "aplicativo": "prepagoApp",
+    "url": "https://github.com/guillenortizrodrigo/ReleaseInteliposGaspeed/raw/main/prepagoApp_1_5.apk",
+    "versionCode": 5,
+    "modalidad": "Pruebas",
+    "updateMessage": "Ver 1.5. Actualización "
+  },
+  {
+    "aplicativo": "PreseleccionApp",
+    "url": "https://github.com/guillenortizrodrigo/ReleaseInteliposGaspeed/raw/main/prefijadoApp_1_5.apk",
+    "versionCode": 5,
+    "modalidad": "Pruebas",
+    "updateMessage": "Ver 1.5. Actualización "
+  },
+  {
+    "aplicativo": "ReciboApp",
+    "url": "https://github.com/guillenortizrodrigo/ReleaseInteliposGaspeed/raw/main/reciboApp_1_6.apk",
+    "versionCode": 6,
+    "modalidad": "Pruebas",
+    "updateMessage": "Ver 1.6. Actualización "
+  },
+  {
+    "aplicativo": "TicketsApp",
+    "url": "https://github.com/guillenortizrodrigo/ReleaseInteliposGaspeed/raw/main/ticketsApp_1_5.apk",
+    "versionCode": 5,
+    "modalidad": "Pruebas",
+    "updateMessage": "Ver 1.5. Actualización "
+  }
+]
