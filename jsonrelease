@@ -16,14 +16,14 @@
   {
     "aplicativo": "consultarSaldoApp",
     "url": "https://github.com/guillenortizrodrigo/ReleaseInteliposGaspeed/raw/main/consultarSaldoApp_1_4.apk",
-    "versionCode":  5,
+    "versionCode":  4,
     "modalidad": "Pruebas",
     "updateMessage": "Ver 1.4. Actualización "
   },
   {
     "aplicativo": "FlotillaApp",
     "url": "https://github.com/guillenortizrodrigo/ReleaseInteliposGaspeed/raw/main/flotillaApp_1_5.apk",
-    "versionCode": 5,
+    "versionCode":  6,
     "modalidad": "Pruebas",
     "updateMessage": "Ver 1.5. Actualización "
   },
