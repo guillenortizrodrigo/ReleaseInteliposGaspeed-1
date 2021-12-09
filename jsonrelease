@@ -9,14 +9,14 @@
   {
     "aplicativo": "CancelPrefApp",
     "url": "https://github.com/guillenortizrodrigo/ReleaseInteliposGaspeed/raw/main/cancelPref_1_5.apk",
-    "versionCode":  6,
+    "versionCode":  5,
     "modalidad": "Pruebas",
     "updateMessage": "Ver 1.5. Actualización "
   },
   {
     "aplicativo": "consultarSaldoApp",
     "url": "https://github.com/guillenortizrodrigo/ReleaseInteliposGaspeed/raw/main/consultarSaldoApp_1_4.apk",
-    "versionCode":  4,
+    "versionCode":  5,
     "modalidad": "Pruebas",
     "updateMessage": "Ver 1.4. Actualización "
   },
