@@ -1,14 +1,14 @@
 [
   {
     "aplicativo": "AceitesApp",
-    "url": "https://github.com/enerconprojects/ReleaseInteliposGaspeed/raw/main/AceitesAPP1.6.apk"
+    "url": "https://github.com/enerconprojects/ReleaseInteliposGaspeed/raw/main/AceitesAPP1.6.apk",
     "versionCode":  6,
     "modalidad": "Pruebas",
     "updateMessage": "Ver 1.6.  Actualización"
   },
   {
     "aplicativo": "CancelPrefApp",
-    "url": "https://github.com/enerconprojects/ReleaseInteliposGaspeed/raw/main/CancelarPreseleccion1.6.apk"
+    "url": "https://github.com/enerconprojects/ReleaseInteliposGaspeed/raw/main/CancelarPreseleccion1.6.apk",
     "versionCode":  6,
     "modalidad": "Pruebas",
     "updateMessage": "Ver 1.6. Actualización"
@@ -22,10 +22,10 @@
   },
   {
     "aplicativo": "FlotillaApp",
-    "url": "https://github.com/guillenortizrodrigo/ReleaseInteliposGaspeed/raw/main/flotillaApp_1_5.apk",
-    "versionCode":  5,
+    "url": "https://github.com/enerconprojects/ReleaseInteliposGaspeed/raw/main/FlotillaAPP1.6.apk",
+    "versionCode":  6,
     "modalidad": "Pruebas",
-    "updateMessage": "Ver 1.5. Actualización "
+    "updateMessage": "Ver 1.6. Actualización"
   },
   {
     "aplicativo": "FacturacionApp",
