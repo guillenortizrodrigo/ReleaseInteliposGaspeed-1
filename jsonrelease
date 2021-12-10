@@ -15,7 +15,7 @@
   },
   {
     "aplicativo": "consultarSaldoApp",
-    "url": "https://github.com/enerconprojects/ReleaseInteliposGaspeed/raw/main/RevisarSaldoApp1.5.apk"
+    "url": "https://github.com/enerconprojects/ReleaseInteliposGaspeed/raw/main/RevisarSaldoApp1.5.apk",
     "versionCode":  5,
     "modalidad": "Pruebas",
     "updateMessage": "Ver 1.5. Actualización"
