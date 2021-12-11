@@ -2,63 +2,63 @@
   {
     "aplicativo": "AceitesApp",
     "url": "https://github.com/enerconprojects/ReleaseInteliposGaspeed/raw/main/AceitesAPP1.6.apk",
-    "versionCode":  6,
+    "versionCode":  0,
     "modalidad": "Pruebas",
     "updateMessage": "Ver 1.6.  Actualización"
   },
   {
     "aplicativo": "CancelPrefApp",
     "url": "https://github.com/enerconprojects/ReleaseInteliposGaspeed/raw/main/CancelarPreseleccion1.6.apk",
-    "versionCode":  6,
+    "versionCode":  0,
     "modalidad": "Pruebas",
     "updateMessage": "Ver 1.6. Actualización"
   },
   {
     "aplicativo": "consultarSaldoApp",
     "url": "https://github.com/enerconprojects/ReleaseInteliposGaspeed/raw/main/RevisarSaldoApp1.5.apk",
-    "versionCode":  5,
+    "versionCode":  0,
     "modalidad": "Pruebas",
     "updateMessage": "Ver 1.5. Actualización"
   },
   {
     "aplicativo": "FlotillaApp",
     "url": "https://github.com/enerconprojects/ReleaseInteliposGaspeed/raw/main/FlotillaAPP1.6.apk",
-    "versionCode":  6,
+    "versionCode":  0,
     "modalidad": "Pruebas",
     "updateMessage": "Ver 1.6. Actualización"
   },
   {
     "aplicativo": "FacturacionApp",
     "url": "https://github.com/enerconprojects/ReleaseInteliposGaspeed/raw/main/FacturacionApp1.7.apk",
-    "versionCode": 7,
+    "versionCode": 0,
     "modalidad": "Pruebas",
     "updateMessage": "Ver 1.7. Actualización"
   },
   {
     "aplicativo": "prepagoApp",
     "url": "https://github.com/enerconprojects/ReleaseInteliposGaspeed/raw/main/Prepago1.6.apk",
-    "versionCode": 6,
+    "versionCode": 0,
     "modalidad": "Pruebas",
     "updateMessage": "Ver 1.6 Actualización"
   },
   {
     "aplicativo": "PreseleccionApp",
     "url": "https://github.com/enerconprojects/ReleaseInteliposGaspeed/raw/main/PreseleccionAPP1.6.apk",
-    "versionCode": 6,
+    "versionCode": 0,
     "modalidad": "Pruebas",
     "updateMessage": "Ver 1.6. Actualizacxión"
   },
   {
     "aplicativo": "ReciboApp",
     "url": "https://github.com/enerconprojects/ReleaseInteliposGaspeed/raw/main/ReciboAPP1.7.apk",
-    "versionCode": 7,
+    "versionCode": 0,
     "modalidad": "Pruebas",
     "updateMessage": "Ver 1.7. Actualizacion"
   },
   {
     "aplicativo": "TicketsApp",
     "url": "https://github.com/enerconprojects/ReleaseInteliposGaspeed/raw/main/TicketsApp1.6.apk",
-    "versionCode": 6,
+    "versionCode": 0,
     "modalidad": "Pruebas",
     "updateMessage": "Ver 1.6. Actualización"
   }
